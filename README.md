@@ -16,8 +16,8 @@
 <br />
 
 ### About Myself 💻
-🎓 I’m an Open-Source enthusiast & a fresher currently pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am interested in Web Development, Machine Learning & Competitive Programming. Apart from that, I am curious about learning new things. </br>
+🎓 I’m a fresher currently pursuing my Masters in Computer Science & Engineering. </br>
+👨‍💻  I am interested in  Machine Learning, Data Science, Web Development, Product Management. Apart from that, I am curious about learning new things. </br>
 
 ### Technical Skills 📖
 - Programming Languages: Java, Python, HTML, CSS, Js
