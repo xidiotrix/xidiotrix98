@@ -1,4 +1,4 @@
-## Hey, I'm Shubhajit! ![YoureWelcomeTakeABowGIF](https://user-images.githubusercontent.com/46186124/170263827-3349c6ad-3b93-445b-ad9b-9060651a3664.gif)
+## Hey, I'm Shubhajit!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### Connect with me:
 
