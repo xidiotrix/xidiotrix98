@@ -1,17 +1,17 @@
-## Hey, I'm Shubhajit! <img src="https://avatars.githubusercontent.com/u/46186124?s=400&u=5430962731166a23178c4c63cdb2b98281dba762&v=4" width="29px">
+## Hey, I'm Shubhajit! ![YoureWelcomeTakeABowGIF](https://user-images.githubusercontent.com/46186124/170263827-3349c6ad-3b93-445b-ad9b-9060651a3664.gif)
 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/shubhajitchak/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="Red" />
 </a>
 
 <a href="https://twitter.com/ShubhajitChak">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" color="Red" />
 </a>
 
 <a href="https://www.facebook.com/shubhajit.chak98/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" color="Red" />
 </a>
 <br />
 
