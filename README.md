@@ -31,9 +31,3 @@
 - B.Tech in Computer Science Engineering - 2020
 - Schooling Class XII- CBSE
 - Schooling Class X- CBSE
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="shubhajitchak" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubhajitchak?trk=profile-badge">Shubhajit Chakraborty</a></div>
-              
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
