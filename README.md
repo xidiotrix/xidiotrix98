@@ -16,11 +16,11 @@
 <br />
 
 ### About Myself 💻
-🎓 I’m a fresher currently pursuing my Masters in Computer Science & Engineering. </br>
-👨‍💻  I am interested in  Machine Learning, Data Science, Web Development, Product Management. Apart from that, I am curious about learning new things. </br>
+🎓 I’m a fresher currently working at a multinational corporation. </br>
+👨‍💻  My interest domain varies between  Machine Learning, Data Science, Web Development & Product Management. Apart from that, I am curious about learning new things. </br>
 
 ### Technical Skills 📖
-- Programming Languages: Java, Python, HTML, CSS, Js
+- Programming Languages: ABAP, Java, Python, HTML, CSS, Js
 - Frameworks/Libraries: NodeJs, ExpressJs, MongoDB, 
 - Platforms: Android Studio, Pycharm, Jupyter, Spider, Visual Studio Code.
 - Databases: SQL, NoSQL(MongoDB).
@@ -29,5 +29,5 @@
 ### Education 📚
 - M.Tech in Computer Science Engineering - 2022
 - B.Tech in Computer Science Engineering - 2020
-- Schooling Class XII- CBSE
-- Schooling Class X- CBSE
+- Schooling Class XII- 2016
+- Schooling Class X- 2014
