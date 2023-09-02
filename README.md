@@ -16,7 +16,7 @@
 <br />
 
 ### About Myself 💻
-🎓 I’m a fresher currently working at a multinational corporation. </br>
+🎓 I’m a professional currently working at a multinational corporation. </br>
 👨‍💻  My interest domain varies between  Machine Learning, Data Science, Web Development & Product Management. Apart from that, I am curious about learning new things. </br>
 
 ### Technical Skills 📖
