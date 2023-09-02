@@ -20,7 +20,7 @@
 👨‍💻  My interest domain varies between  Machine Learning, Data Science, Web Development & Product Management. Apart from that, I am curious about learning new things. </br>
 
 ### Technical Skills 📖
-- Programming Languages: ABAP, Java, Python, HTML, CSS, Js
+- Technologies worked in : SAP Security, GRC, HANA Security, SAP ABAP - S/4 HANA, Java, Python, HTML, CSS, Js
 - Frameworks/Libraries: NodeJs, ExpressJs, MongoDB, 
 - Platforms: Android Studio, Pycharm, Jupyter, Spider, Visual Studio Code.
 - Databases: SQL, NoSQL(MongoDB).
